@@ -4,7 +4,7 @@
 define("serverName", "localhost");
 define("database", "net24bkoskamp_datingdb");
 define("username", "net24bkoskamp_bram");
-define("password", "@ppel123!");
+define("password", "V=s7%0crWmq_");
 define("connectionString", "mysql:host=" . serverName . ";dbname=" . database);
 
 function getConnection()
