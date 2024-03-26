@@ -1,7 +1,7 @@
 <?php
 //it allows any type of database.
 
-define("serverName", "https://net24bkoskamp.gc-webhosting.nl/");
+define("serverName", "localhost");
 define("database", "net24bkoskamp_datingdb");
 define("username", "net24bkoskamp_bram");
 define("password", "@ppel123!");
